@@ -1,0 +1,5 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ('passionburger', true)
+INSERT INTO burgers (burger_name, devoured) VALUES ('tomatoburger', false)
+INSERT INTO burgers (burger_name, devoured) VALUES ('appleburger', true)
+INSERT INTO burgers (burger_name, devoured) VALUES ('pearburger', true)
+INSERT INTO burgers (burger_name, devoured) VALUES ('grapeburger', false)
